@@ -103,3 +103,5 @@ My research looks at **reliability, verification, and benchmarking in noisy quan
 <sub>⟨ψ| measured, not assumed |ψ⟩</sub>
 
 </div>
+
+<!-- profile v2 �P 2026-11 -->
